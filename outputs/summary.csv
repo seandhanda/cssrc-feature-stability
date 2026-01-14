@@ -1,0 +1,2 @@
+n_runs,test_size,mean_acc_logreg,std_acc_logreg,mean_acc_rf,std_acc_rf,stability_spearman_logreg,stability_spearman_rf,mean_feature_var_logreg,mean_feature_var_rf
+30,0.3,0.976998050682261,0.00942147834198407,0.9610136452241712,0.013533376185348757,0.8346249344738087,0.9555746487156865,0.01728935747805018,7.203130861883119e-05
