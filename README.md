@@ -1,4 +1,6 @@
-# Accuracy Is Not Enough: Evaluating Feature Stability Across Resampled Training Sets
+# Feature Stability Research Paper
+
+*Research paper accepted into CSSRC 2026.
 
 This repository contains code to reproduce the experiments and figures from the paper:
 
