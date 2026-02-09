@@ -1,4 +1,4 @@
-# Feature Stability Under Resampled Training Sets
+# Accuracy Is Not Enough: Evaluating Feature Stability Across Resampled Training Sets
 
 This repository contains code to reproduce the experiments and figures from the paper:
 
